@@ -6,7 +6,7 @@ Use your Gameboy Color to control *National* air-conditioners!
 
 Build with [GBDK-N](https://github.com/andreasjhkarlsson/gbdk-n) (normal GBDK will not work).
 
-Also, use [ihx2gb.js](https://github.com/DonaldHays/bubblefactory/tree/master/ihx2gb) to rebuild the ROM to enable GBC support using the `--cgb 192` flag.
+Also, use [ihx2gb.js](https://github.com/DonaldHays/bubblefactory/tree/969fca69c81a95578537b5e3d28407cc070d5e30/ihx2gb) to rebuild the ROM to enable GBC support using the `--cgb 192` flag.
 
 ![BGB Screenshot](https://raw.github.com/jglim/IRTool/master/resources/irtool-sc.png)
 
